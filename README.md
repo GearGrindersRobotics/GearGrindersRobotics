@@ -5,9 +5,9 @@
 <img  align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GearGrindersRobotics&theme=discord_old_blurple&layout=compact" />
 
 
-## Main Repositiories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GearGrindersRobotics&theme=discord_old_blurple&repo=2022--Gear-Grinders-Robotics-Repo)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GearGrindersRobotics&theme=discord_old_blurple&repo=VEX-V5-2021)]()
+## Main Repositiories 📚:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GearGrindersRobotics&theme=discord_old_blurple&repo=2022--Gear-Grinders-Robotics-Repo)](https://github.com/GearGrindersRobotics/2022--Gear-Grinders-Robotics-Repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GearGrindersRobotics&theme=discord_old_blurple&repo=VEX-V5-2021)](https://github.com/GearGrindersRobotics/VEX-V5-2021)
 
 ## Our Website 💻!
 
