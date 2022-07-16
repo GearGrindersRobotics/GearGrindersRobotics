@@ -13,4 +13,8 @@
 
 > [Click Here!](http://geargrinders.tech) 
 
+### Credits 💳
+This github page and 100% of the code is managed and written by Void (me).
+[Void's github](https://github.com/ItzVoidYT)
+
 ---
